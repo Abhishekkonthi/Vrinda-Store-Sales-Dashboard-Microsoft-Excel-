@@ -1,1 +1,1 @@
-# Vrinda-Store-Sales-Dashboard-Microsoft-Excel-
+Designed and implemented an interactive and visually compelling Excel dashboard to analyze and track sales performance for Vrinda Store. This dashboard provides deep insights into customer behavior, sales channels, and regional performance, aiding business decisions through data-driven storytelling.# Vrinda-Store-Sales-Dashboard-Microsoft-Excel-
